@@ -3,6 +3,7 @@
 Testing for Secure Methodologies at URJC
 
 Build works?
+Nuevo Sonar
 Denisa rocks
 [![Pull request build](https://github.com/WebGoat/WebGoat/actions/workflows/pr_build.yml/badge.svg?branch=develop)](https://github.com/WebGoat/WebGoat/actions/workflows/pr_build.yml)
 [![java-jdk](https://img.shields.io/badge/java%20jdk-17-green.svg)](https://jdk.java.net/)
